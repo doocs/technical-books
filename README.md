@@ -19,6 +19,7 @@
 | # | Title | Author(s) | Abstract | Resource |
 |---|---|---|---|---|
 | 1 | Redis 设计与实现[2014] | [黄健宏](https://github.com/huangz1990) | 基于 Redis 3.0，内容通俗易懂，可以深入了解 Redis 底层。 | [PDF](https://pan.baidu.com/s/16LY5H6XQxcjfOdCz73Z6tA), q2ky |
+| 2 | 高性能 MySQL 第三版[2013] | [美] Baron Schwartz 等著<br> 宁海元 等译 | MySQL 领域极佳之作。 | [PDF](https://pan.baidu.com/s/1qlpa0lzJN_2oXfQiv1V0PQ), 0ijq |
 
 ## Frontend
 | # | Title | Author(s) | Abstract | Resource |
