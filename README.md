@@ -14,7 +14,7 @@
 | # | Title | Author(s) | Abstract | Resource |
 |---|---|---|---|---|
 | 1 | Effective Java 原书第 3 版[2019] | [美]Joshua Bloch 著<br>俞黎敏 译 | Java 经典书籍，内容涵盖 Java 9 及以下版本。| [PDF](https://pan.baidu.com/s/1ykZmLC6E4RzbfE6Dyzz4PQ), w2f2 |
-| 2 | 码出高效：Java 开发手册[2018] | 杨冠宝（花名：孤尽）<br>高海慧（花名：鸣莎） | 结合阿里巴巴实践经验与故障案例，与 Java 底层源码解析融会贯通。| [PDF](https://pan.baidu.com/s/170xZD0qgJZ-HOyrdqNaWzg), 9yyp |
+| 2 | 码出高效：Java 开发手册[2018] | 杨冠宝(花名:孤尽)<br>高海慧(花名:鸣莎) | 结合阿里巴巴实践经验与故障案例，与 Java 底层源码解析融会贯通。| [PDF](https://pan.baidu.com/s/170xZD0qgJZ-HOyrdqNaWzg), 9yyp |
 
 ## Database
 | # | Title | Author(s) | Abstract | Resource |
@@ -29,4 +29,4 @@
 ## Architecture
 | # | Title | Author(s) | Abstract | Resource |
 |---|---|---|---|---|
-| 1 | 企业 IT 架构转型之道：阿里巴巴中台战略思想与架构实战[2017] | 钟华（花名：古谦） | 分享阿里巴巴建设共享服务体系的经验和实践。 | [PDF](https://pan.baidu.com/s/1xfyLZAg1-uwzTk0WbXMlJA), euzo |
+| 1 | 企业 IT 架构转型之道：阿里巴巴中台战略思想与架构实战[2017] | 钟华(花名:古谦) | 分享阿里巴巴建设共享服务体系的经验和实践。 | [PDF](https://pan.baidu.com/s/1xfyLZAg1-uwzTk0WbXMlJA), euzo |
