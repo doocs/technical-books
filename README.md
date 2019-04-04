@@ -31,3 +31,4 @@
 |---|---|---|---|---|
 | 1 | [企业 IT 架构转型之道：阿里巴巴中台战略思想与架构实战[2017]](http://item.jd.com/12176278.html) | 钟华(花名:古谦) | 分享阿里巴巴建设共享服务体系的经验和实践。 | [euzo](https://pan.baidu.com/s/1xfyLZAg1-uwzTk0WbXMlJA) |
 | 2 | [大型网站系统与 Java 中间件实践[2014]](http://item.jd.com/11449803.html) | 曾宪杰(花名:华黎) | 围绕大型网站和支撑大型网站架构的 Java 中间件的实践展开介绍。 | [hrkh](https://pan.baidu.com/s/1OmfqXXVcFcORYkTsVjsQEw) |
+| 3 | [大型网站技术架构：核心原理与案例分析[2013]](http://item.jd.com/11322972.html) | 李智慧 | 梳理大型网站技术发展历程，剖析大型网站技术架构模式，深入讲述大型互联网架构设计的核心原理。 | [8epr](https://pan.baidu.com/s/1kOlVfWTQz9Q5uBLrlqJCQA) |
