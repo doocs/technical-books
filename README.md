@@ -7,8 +7,8 @@
 
 本项目主要收集国内外各大互联网公司技术大牛们出版的值得一看的书籍，欢迎推荐书籍、完善内容和排版。如果你有比较好的 idea，也欢迎在 [issues](https://github.com/doocs/technical-books/issues) 上交流。**注意**，本项目所有书籍资源仅供交流和学习使用，请勿商用。若喜欢且有条件，请购买正版书籍，以便更好地支持原书作者。
 
-| [Frontend](#Frontend) | [Backend](#Backend) | [Database](#Database) | [Architecture](#Architecture) |
-|---|---|---|---|
+| [Frontend](#Frontend) | [Backend](#Backend) | [Database](#Database) | [Architecture](#Architecture) | [Big Data](#Big-Data) |
+|---|---|---|---|---|
 
 ## Backend
 | # | Title | Author(s) | Abstract | Resource |
@@ -36,3 +36,8 @@
 | 3 | [大型网站技术架构：核心原理与案例分析[2013]](http://item.jd.com/11322972.html) | 李智慧 | 梳理大型网站技术发展历程，剖析大型网站技术架构模式，深入讲述大型互联网架构设计的核心原理。 | [8epr](https://pan.baidu.com/s/1kOlVfWTQz9Q5uBLrlqJCQA) |
 | 4 | [亿级流量网站架构核心技术：跟开涛学搭建高可用高并发系统[2017]](http://item.jd.com/12153914.html) | 张开涛 | 总结并梳理了亿级流量网站高可用和高并发原则，通过实例详细介绍了如何落地这些原则。 | [2v7a](https://pan.baidu.com/s/1knj-zhoQ1YEv98e1SU0-bw) |
 | 5 | [逆流而上：阿里巴巴技术成长之路[2018]](http://item.jd.com/12238227.html) | 阿里巴巴集团成长集编委会 | 总结阿里巴巴技术团队在基础架构、中间件、数据库、业务开发等领域的经典实践以及对未来的思考。 | [coi5](https://pan.baidu.com/s/1dxLsKJx-G0LZazVKLJljsA) |
+
+## Big Data
+| # | Title | Author(s) | Abstract | Resource |
+|---|---|---|---|---|
+| 1 | [HBase 不睡觉书[2018]](http://item.jd.com/26885342700.html) | 杨曦 | 一本让读者看了不会睡着的 HBase 技术书。 | [sjcw](https://pan.baidu.com/s/1mkk1T4kctRdQKPvc6_Z_vQ) |
