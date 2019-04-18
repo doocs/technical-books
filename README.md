@@ -16,6 +16,7 @@
 | 1 | [Effective Java 原书第 3 版[2019]](https://item.jd.com/12507084.html) | [美]Joshua Bloch 著<br>俞黎敏 译 | Java 经典书籍，内容涵盖 Java 9 及以下版本。| [w2f2](https://pan.baidu.com/s/1ykZmLC6E4RzbfE6Dyzz4PQ) |
 | 2 | [码出高效：Java 开发手册[2018]](http://item.jd.com/12451498.html) | 杨冠宝(花名:孤尽)<br>高海慧(花名:鸣莎) | 结合阿里巴巴实践经验与故障案例，与 Java 底层源码解析融会贯通。| [9yyp](https://pan.baidu.com/s/170xZD0qgJZ-HOyrdqNaWzg) |
 | 3 | [互联网轻量级SSM框架解密：Spring、Spring MVC、MyBatis源码深度剖析[2019.3]](http://item.jd.com/12534456.html) | 李艳鹏 等 | SSM 框架源码深度剖析。| [6xwv](https://pan.baidu.com/s/10LfuET-X408HbJJLPvjjCAg) |
+| 4 | [Java 8 In Action 中文版[2016]](https://item.jd.com/11917790.html) | [英]Raoul-Gabriel Urma [意]Mario Fusco [英]Alan Mycroft 著<br>陆明刚 劳佳 译 | 全面介绍 Java8 这个里程碑版本的新特性，包括 Lambdas、流和函数式编程| [6063](https://pan.baidu.com/s/1mgQ64Itkjzu3TVPzVmyJTA) |
 
 
 ## Database
