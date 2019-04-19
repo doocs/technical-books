@@ -7,8 +7,14 @@
 
 本项目主要收集国内外各大互联网公司技术大牛们出版的值得一看的书籍，欢迎推荐书籍、完善内容和排版。如果你有比较好的 idea，也欢迎在 [issues](https://github.com/doocs/technical-books/issues) 上交流。**注意**，本项目所有书籍资源仅供交流和学习使用，请勿商用。若喜欢且有条件，请购买正版书籍，以便更好地支持原书作者。
 
-| [Frontend](#Frontend) | [Backend](#Backend) | [Database](#Database) | [Architecture](#Architecture) | [Big Data](#Big-Data) |
+| [Common](#Common) | [Frontend](#Frontend) | [Backend](#Backend) | [Database](#Database) | [Architecture](#Architecture) | [Big Data](#Big-Data) |
+|---|---|---|---|---|---|
+
+## Common
+| # | Title | Author(s) | Abstract | Resource |
 |---|---|---|---|---|
+| 1 | [编码：隐匿在计算机软硬件背后的语言[2012]](http://item.jd.com/11116026.html) | [美]Charles Petzold 著<br>左飞 薛佟佟 译 | 讲述计算机工作原理，却并不晦涩难懂。不管你是计算机高手，还是对这个神奇的机器充满敬畏之心的菜鸟，读一读大师的经典作品，必然有所收获。| [1f7s](https://pan.baidu.com/s/1pVcA104zCY6D4Dyf1xfLpA) |
+| 2 | [码农翻身：用故事给技术加点料[2018]](http://item.jd.com/12364204.html) | 刘欣 | 用故事方式讲述软件编程的若干重要领域，侧重于基础性、原理性的知识。| [2d9s](https://pan.baidu.com/s/1AoeK1qg9jxUIOx5HQbhvEg) |
 
 ## Backend
 | # | Title | Author(s) | Abstract | Resource |
