@@ -22,8 +22,8 @@
 | 2 | [码出高效：Java 开发手册[2018]](https://item.jd.com/12451498.html) | 杨冠宝(花名:孤尽)<br>高海慧(花名:鸣莎) | 结合阿里巴巴实践经验与故障案例，与 Java 底层源码解析融会贯通。| [9yyp](https://pan.baidu.com/s/170xZD0qgJZ-HOyrdqNaWzg) |
 | 3 | [互联网轻量级SSM框架解密：Spring、Spring MVC、MyBatis源码深度剖析[2019.3]](http://item.jd.com/12534456.html) | 李艳鹏 等 | SSM 框架源码深度剖析。| [39i1](https://pan.baidu.com/s/1rW0rZeftyZAkMhEgHDC1Lg) |
 | 4 | [Java 8 In Action 中文版[2016]](https://item.jd.com/11917790.html) | [英]Raoul-Gabriel Urma [意]Mario Fusco [英]Alan Mycroft 著<br>陆明刚 劳佳 译 | 全面介绍 Java8 这个里程碑版本的新特性，包括 Lambdas、流和函数式编程 | [6063](https://pan.baidu.com/s/1mgQ64Itkjzu3TVPzVmyJTA) |
-| 5 | [实战 Java 高并发程序设计[2015]](https://item.jd.com/11917790.html) | 葛一鸣 郭超 | 主要介绍基于 Java 的并行程序设计基础、思路、方法和实战。 | [bq0z](https://pan.baidu.com/s/1s3kMmwBmwJyPZEXjTP8h-A) |
-| 6 | [Java 设计模式[2018]](https://item.jd.com/11917790.html) | 刘伟 | 内容涵盖了七个面向对象设计原则和 24 个设计模式（23 个 GoF 设计模式+简单工厂模式） | [x7ta](https://pan.baidu.com/s/1ClTYNw3Hsj_qdHAnapdXoA) |
+| 5 | [实战 Java 高并发程序设计[2015]](https://item.jd.com/11800589.html) | 葛一鸣 郭超 | 主要介绍基于 Java 的并行程序设计基础、思路、方法和实战。 | [bq0z](https://pan.baidu.com/s/1s3kMmwBmwJyPZEXjTP8h-A) |
+| 6 | [Java 设计模式[2018]](https://item.jd.com/12317007.html) | 刘伟 | 内容涵盖了七个面向对象设计原则和 24 个设计模式（23 个 GoF 设计模式+简单工厂模式） | [x7ta](https://pan.baidu.com/s/1ClTYNw3Hsj_qdHAnapdXoA) |
 
 ## Database
 | # | Title | Author(s) | Abstract | Resource |
