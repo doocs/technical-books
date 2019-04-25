@@ -1,11 +1,10 @@
 # 值得一看的技术类书籍列表
-
 [![license](https://badgen.net/badge/license/Attribution-ShareAlike%204.0%20International/green)](https://github.com/yanglbme/technical-books/blob/master/LICENSE)
 [![PRs Welcome](https://badgen.net/badge/PRs/welcome/green)](http://makeapullrequest.com)
 
 书籍是人们获取知识的主要途径。然而，如今的社会太浮躁，不少人不愿意花时间静下心来仔细读书，很多开发人员也是如此。殊不知，书籍沉淀了前人的经验和思考。
 
-本项目主要收集国内外各大互联网公司技术大牛们出版的值得一看的书籍，欢迎推荐书籍、完善内容和排版。如果你有比较好的 idea，也欢迎在 [issues](https://github.com/doocs/technical-books/issues) 上交流。**注意**，本项目所有书籍资源**仅供交流和学习使用**，请勿商用。若喜欢且有条件，请购买正版书籍，以便更好地支持原书作者。
+**注意**，以下所有书籍资源**仅供预览**，请勿商用。Doocs 鼓励各位同学**购买正版书籍以支持原书作者**，毕竟**出书不易**，在书籍名称上点击即可跳转到购买页。若列表中某书籍原作者认为 Doocs 侵犯了其版权，请及时联系 [Doocs 项目维护者](mailto:contact@yanglibin.info)从列表中移除该书籍推荐项。
 
 | [Common](#Common) | [Frontend](#Frontend) | [Backend](#Backend) | [Database](#Database) | [Architecture](#Architecture) | [Big Data](#Big-Data) |
 |---|---|---|---|---|---|
@@ -22,7 +21,9 @@
 | 1 | [Effective Java 原书第 3 版[2019]](https://item.jd.com/12507084.html) | [美]Joshua Bloch 著<br>俞黎敏 译 | Java 经典书籍，内容涵盖 Java 9 及以下版本。| [w2f2](https://pan.baidu.com/s/1ykZmLC6E4RzbfE6Dyzz4PQ) |
 | 2 | [码出高效：Java 开发手册[2018]](https://item.jd.com/12451498.html) | 杨冠宝(花名:孤尽)<br>高海慧(花名:鸣莎) | 结合阿里巴巴实践经验与故障案例，与 Java 底层源码解析融会贯通。| [9yyp](https://pan.baidu.com/s/170xZD0qgJZ-HOyrdqNaWzg) |
 | 3 | [互联网轻量级SSM框架解密：Spring、Spring MVC、MyBatis源码深度剖析[2019.3]](http://item.jd.com/12534456.html) | 李艳鹏 等 | SSM 框架源码深度剖析。| [39i1](https://pan.baidu.com/s/1rW0rZeftyZAkMhEgHDC1Lg) |
-| 4 | [Java 8 In Action 中文版[2016]](https://item.jd.com/11917790.html) | [英]Raoul-Gabriel Urma [意]Mario Fusco [英]Alan Mycroft 著<br>陆明刚 劳佳 译 | 全面介绍 Java8 这个里程碑版本的新特性，包括 Lambdas、流和函数式编程| [6063](https://pan.baidu.com/s/1mgQ64Itkjzu3TVPzVmyJTA) |
+| 4 | [Java 8 In Action 中文版[2016]](https://item.jd.com/11917790.html) | [英]Raoul-Gabriel Urma [意]Mario Fusco [英]Alan Mycroft 著<br>陆明刚 劳佳 译 | 全面介绍 Java8 这个里程碑版本的新特性，包括 Lambdas、流和函数式编程 | [6063](https://pan.baidu.com/s/1mgQ64Itkjzu3TVPzVmyJTA) |
+| 5 | [实战 Java 高并发程序设计[2015]](https://item.jd.com/11917790.html) | 葛一鸣 郭超 | 主要介绍基于 Java 的并行程序设计基础、思路、方法和实战。 | [bq0z](https://pan.baidu.com/s/1s3kMmwBmwJyPZEXjTP8h-A) |
+| 6 | [Java 设计模式[2018]](https://item.jd.com/11917790.html) | 刘伟 | 内容涵盖了七个面向对象设计原则和 24 个设计模式（23 个 GoF 设计模式+简单工厂模式） | [x7ta](https://pan.baidu.com/s/1ClTYNw3Hsj_qdHAnapdXoA) |
 
 ## Database
 | # | Title | Author(s) | Abstract | Resource |
