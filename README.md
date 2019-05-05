@@ -14,6 +14,7 @@
 |---|---|---|---|---|
 | 1 | [编码：隐匿在计算机软硬件背后的语言[2012]](https://item.jd.com/11116026.html) | [美]Charles Petzold 著<br>左飞 薛佟佟 译 | 讲述计算机工作原理，却并不晦涩难懂。不管你是计算机高手，还是对这个神奇的机器充满敬畏之心的菜鸟，读一读大师的经典作品，必然有所收获。| [1f7s](https://pan.baidu.com/s/1pVcA104zCY6D4Dyf1xfLpA) |
 | 2 | [码农翻身：用故事给技术加点料[2018]](https://item.jd.com/12364204.html) | 刘欣 | 用故事方式讲述软件编程的若干重要领域，侧重于基础性、原理性的知识。| [2d9s](https://pan.baidu.com/s/1AoeK1qg9jxUIOx5HQbhvEg) |
+| 3 | [程序员健康指南[2014]](https://item.jd.com/11534081.html) | [美]Joe Kutner 著<br>陈少芸 译 | 从运动、饮食等方面给出详细指导，帮助开发人员在不改变工作方式的情况下轻松拥有健康。 | [ng96](https://pan.baidu.com/s/103E1N5rdPE61slBb8UA2Ug) |
 
 ## Backend
 | # | Title | Author(s) | Abstract | Resource |
