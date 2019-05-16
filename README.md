@@ -6,7 +6,7 @@
 
 以下所有书籍资源**仅供预览**，**禁止商用**。写书不易，创作好的作品更是需要耗费很大心力，Doocs 鼓励各位同学**购买正版书籍以支持原书作者**，只要在书籍名称上点击即可跳转到购买页。若列表中某书籍原作者认为 Doocs 侵犯了其版权，请及时联系 [Doocs 项目维护者](mailto:contact@yanglibin.info)从列表中移除该书籍资源，谢谢。
 
-| [Common](#Common) | [Frontend](#Frontend) | [Backend](#Backend) | [Database](#Database) | [Architecture](#Architecture) | [Big Data](#Big-Data) |
+| [Common](#common) | [Frontend](#frontend) | [Backend](#backend) | [Database](#database) | [Architecture](#architecture) | [Big Data](#big-data) |
 |---|---|---|---|---|---|
 
 ## Common
