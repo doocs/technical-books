@@ -32,6 +32,7 @@
 |---|---|---|---|---|
 | 1 | [Redis 设计与实现[2014]](http://redisbook.com/) | [黄健宏](https://github.com/huangz1990) | 基于 Redis 3.0，内容通俗易懂，可以深入了解 Redis 底层。 | [q2ky](https://pan.baidu.com/s/16LY5H6XQxcjfOdCz73Z6tA) |
 | 2 | [高性能 MySQL 第三版[2013]](https://item.jd.com/11220393.html) | [美] Baron Schwartz 等著<br> 宁海元 等译 | MySQL 领域极佳之作。 | [0ijq](https://pan.baidu.com/s/1qlpa0lzJN_2oXfQiv1V0PQ) |
+| 3 | [Redis 开发与运维[2017]](https://item.jd.com/12121730.html) | 付磊 张益军 | 从开发、运维两个角度总结了Redis实战经验，深入浅出地剖析底层实现，包含大规模集群开发与运维的实际案例、应用技巧。 | [igb1](https://pan.baidu.com/s/1okdvPuoHlgR0J_yjSmmHrQ) |
 
 ## Frontend
 | # | Title | Author(s) | Abstract | Resource |
