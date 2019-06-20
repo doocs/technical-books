@@ -6,7 +6,7 @@
 
 以下所有书籍资源**仅供预览**，**禁止商用**。写书不易，创作好的作品更是需要耗费很大心力，Doocs 鼓励各位同学**购买正版书籍以支持原书作者**，只要在书籍名称上点击即可跳转到购买页。若列表中某书籍原作者认为 Doocs 侵犯了其版权，请及时联系 [Doocs 项目维护者](mailto:contact@yanglibin.info)从列表中移除该书籍资源，谢谢。
 
-| [Common](#common) | [Frontend](#frontend) | [Backend](#backend) | [Database](#database) | [Architecture](#architecture) | [Big Data](#big-data) |
+| [Common](#common) | [Network](#network) | [Frontend](#frontend) | [Backend](#backend) | [Database](#database) | [Architecture](#architecture) | [Big Data](#big-data) |
 |---|---|---|---|---|---|
 
 ## Common
@@ -16,6 +16,11 @@
 | 2 | [码农翻身：用故事给技术加点料[2018]](https://item.jd.com/12364204.html) | 刘欣 | 用故事方式讲述软件编程的若干重要领域，侧重于基础性、原理性的知识。| [2d9s](https://pan.baidu.com/s/1AoeK1qg9jxUIOx5HQbhvEg) |
 | 3 | [程序员健康指南[2014]](https://item.jd.com/11534081.html) | [美]Joe Kutner 著<br>陈少芸 译 | 从运动、饮食等方面给出详细指导，帮助开发人员在不改变工作方式的情况下轻松拥有健康。 | [ng96](https://pan.baidu.com/s/103E1N5rdPE61slBb8UA2Ug) |
 | 4 | [领域驱动设计：软件核心复杂性应对之道（修订版）[2016]](https://item.jd.com/11961038.html) | [美]Eric Evans 著<br>赵俐 盛海艳 刘霞 等 译 | 领域驱动设计方面的经典之作，围绕设计和开发实践，结合真实项目案例，阐述如何在真实的软件项目开发中应用领域驱动设计。 | [73r2](https://pan.baidu.com/s/1ZNLMgyfc-SobPkTZXe7Mrw) |
+
+## Network
+| # | Title | Author(s) | Abstract | Resource |
+|---|---|---|---|---|
+| 1 | [图解 HTTP[2014]](https://item.jd.com/11449491.html) | [日]上野宣 著<br>于均良译 | 对 HTTP 协议进行了全面系统的介绍，讲解的同时，辅以大量生动形象的通信图例，更好地帮助读者深刻理解HTTP通信过程中客户端与服务器之间的交互情况。| [5knq](https://pan.baidu.com/s/1sQ8vEx5CSnEgGkng-NmWXg) |
 
 ## Backend
 | # | Title | Author(s) | Abstract | Resource |
