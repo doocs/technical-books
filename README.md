@@ -31,6 +31,7 @@
 | 4 | [Java 8 In Action 中文版[2016]](https://item.jd.com/11917790.html) | [英]Raoul-Gabriel Urma [意]Mario Fusco [英]Alan Mycroft 著<br>陆明刚 劳佳 译 | 全面介绍 Java8 这个里程碑版本的新特性，包括 Lambdas、流和函数式编程 | [6063](https://pan.baidu.com/s/1mgQ64Itkjzu3TVPzVmyJTA) |
 | 5 | [实战 Java 高并发程序设计[2015]](https://item.jd.com/11800589.html) | 葛一鸣 郭超 | 主要介绍基于 Java 的并行程序设计基础、思路、方法和实战。 | [bq0z](https://pan.baidu.com/s/1s3kMmwBmwJyPZEXjTP8h-A) |
 | 6 | [Java 设计模式[2018]](https://item.jd.com/12317007.html) | 刘伟 | 内容涵盖了七个面向对象设计原则和 24 个设计模式（23 个 GoF 设计模式+简单工厂模式） | [x7ta](https://pan.baidu.com/s/1ClTYNw3Hsj_qdHAnapdXoA) |
+| 7 | [Python 参考手册第 4 版[2016]](https://item.jd.com/12052200.html) | [美]David M.Beazley 著<br>谢俊 等译 | Python 程序员案头必备，涵盖 Python2 和 Python3 共有特性） | [wnuh](https://pan.baidu.com/s/1e8ennSUAmj9v5f74zEXsoA) |
 
 ## Database
 | # | Title | Author(s) | Abstract | Resource |
