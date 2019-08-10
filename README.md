@@ -1,6 +1,8 @@
 # 值得一看的技术类书籍列表
-[![license](https://badgen.net/badge/license/Attribution-ShareAlike%204.0%20International/green)](https://github.com/yanglbme/technical-books/blob/master/LICENSE)
-[![PRs Welcome](https://badgen.net/badge/PRs/welcome/green)](http://makeapullrequest.com)
+[![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
+[![license](https://badgen.net/github/license/doocs/technical-books?color=green)](https://github.com/doocs/technical-books/blob/master/LICENSE)
+[![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](https://github.com/doocs/doocs.github.io#how-to-join)
+[![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
 
 书籍是人们获取知识的主要途径。然而，如今的社会太浮躁，不少人不愿意花时间静下心来仔细读书，很多开发人员也是如此。殊不知，书籍沉淀了前人的经验和思考。
 
