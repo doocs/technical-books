@@ -30,12 +30,12 @@
 | 1 | [Effective Java 原书第 3 版[2019]](https://item.jd.com/12507084.html) | [美]Joshua Bloch 著<br>俞黎敏 译 | Java 经典书籍，内容涵盖 Java 9 及以下版本。| [w2f2](https://pan.baidu.com/s/1ykZmLC6E4RzbfE6Dyzz4PQ) |
 | 2 | [码出高效：Java 开发手册[2018]](https://item.jd.com/12451498.html) | 杨冠宝(花名:孤尽)<br>高海慧(花名:鸣莎) | 结合阿里巴巴实践经验与故障案例，与 Java 底层源码解析融会贯通。| [9yyp](https://pan.baidu.com/s/170xZD0qgJZ-HOyrdqNaWzg) |
 | 3 | [互联网轻量级SSM框架解密：Spring、Spring MVC、MyBatis源码深度剖析[2019.3]](http://item.jd.com/12534456.html) | 李艳鹏 等 | SSM 框架源码深度剖析。| [39i1](https://pan.baidu.com/s/1rW0rZeftyZAkMhEgHDC1Lg) |
-| 4 | [Java 8 In Action 中文版[2016]](https://item.jd.com/11917790.html) | [英]Raoul-Gabriel Urma [意]Mario Fusco [英]Alan Mycroft 著<br>陆明刚 劳佳 译 | 全面介绍 Java8 这个里程碑版本的新特性，包括 Lambdas、流和函数式编程 | [6063](https://pan.baidu.com/s/1mgQ64Itkjzu3TVPzVmyJTA) |
+| 4 | [Java 8 In Action 中文版[2016]](https://item.jd.com/11917790.html) | [英]Raoul-Gabriel Urma [意]Mario Fusco [英]Alan Mycroft 著<br>陆明刚 劳佳 译 | 全面介绍 Java8 这个里程碑版本的新特性，包括 Lambdas、流和函数式编程。 | [6063](https://pan.baidu.com/s/1mgQ64Itkjzu3TVPzVmyJTA) |
 | 5 | [实战 Java 高并发程序设计[2015]](https://item.jd.com/11800589.html) | 葛一鸣 郭超 | 主要介绍基于 Java 的并行程序设计基础、思路、方法和实战。 | [bq0z](https://pan.baidu.com/s/1s3kMmwBmwJyPZEXjTP8h-A) |
-| 6 | [Java 设计模式[2018]](https://item.jd.com/12317007.html) | 刘伟 | 内容涵盖了七个面向对象设计原则和 24 个设计模式（23 个 GoF 设计模式+简单工厂模式） | [x7ta](https://pan.baidu.com/s/1ClTYNw3Hsj_qdHAnapdXoA) |
-| 7 | [Python 参考手册第 4 版[2016]](https://item.jd.com/12052200.html) | [美]David M.Beazley 著<br>谢俊 等译 | Python 程序员案头必备，涵盖 Python2 和 Python3 共有特性） | [wnuh](https://pan.baidu.com/s/1e8ennSUAmj9v5f74zEXsoA) |
-| 8 | [Python3 网络爬虫开发实战[2018]](https://item.jd.com/12333540.html) | 崔庆才 | 全面介绍利用 Python3 开发网络爬虫的知识，包括数据采集、数据存储、动态网站爬取、App爬取、验证码破解、模拟登录、代理使用、爬虫框架、分布式爬取等 | [jmat](https://pan.baidu.com/s/1qbLl1HBvYdDFYBieVjPvew) |
-| 9 | Go Web 编程 | 谢孟军 | Go 入门书籍 | [gitbook](https://astaxie.gitbooks.io/build-web-application-with-golang/zh/) |
+| 6 | [Java 设计模式[2018]](https://item.jd.com/12317007.html) | 刘伟 | 内容涵盖了七个面向对象设计原则和 24 个设计模式（23 个 GoF 设计模式+简单工厂模式）。 | [x7ta](https://pan.baidu.com/s/1ClTYNw3Hsj_qdHAnapdXoA) |
+| 7 | [Python 参考手册第 4 版[2016]](https://item.jd.com/12052200.html) | [美]David M.Beazley 著<br>谢俊 等译 | Python 程序员案头必备，涵盖 Python2 和 Python3 共有特性）。 | [wnuh](https://pan.baidu.com/s/1e8ennSUAmj9v5f74zEXsoA) |
+| 8 | [Python3 网络爬虫开发实战[2018]](https://item.jd.com/12333540.html) | 崔庆才 | 全面介绍利用 Python3 开发网络爬虫的知识，包括数据采集、数据存储、动态网站爬取、App爬取、验证码破解、模拟登录、代理使用、爬虫框架、分布式爬取等。 | [jmat](https://pan.baidu.com/s/1qbLl1HBvYdDFYBieVjPvew) |
+| 9 | Go Web 编程 | 谢孟军 | Go 入门书籍。 | [gitbook](https://astaxie.gitbooks.io/build-web-application-with-golang/zh/) |
 
 ## Database
 | # | Title | Author(s) | Abstract | Resource |
@@ -43,7 +43,7 @@
 | 1 | [Redis 设计与实现[2014]](http://redisbook.com/) | [黄健宏](https://github.com/huangz1990) | 基于 Redis 3.0，内容通俗易懂，可以深入了解 Redis 底层。 | [q2ky](https://pan.baidu.com/s/16LY5H6XQxcjfOdCz73Z6tA) |
 | 2 | [高性能 MySQL 第三版[2013]](https://item.jd.com/11220393.html) | [美] Baron Schwartz 等著<br> 宁海元 等译 | MySQL 领域极佳之作。 | [0ijq](https://pan.baidu.com/s/1qlpa0lzJN_2oXfQiv1V0PQ) |
 | 3 | [Redis 开发与运维[2017]](https://item.jd.com/12121730.html) | 付磊 张益军 | 从开发、运维两个角度总结了Redis实战经验，深入浅出地剖析底层实现，包含大规模集群开发与运维的实际案例、应用技巧。 | [igb1](https://pan.baidu.com/s/1okdvPuoHlgR0J_yjSmmHrQ) |
-| 4 | [MySQL 技术内幕：InnoDB 存储引擎](https://item.jd.com/11252326.html) | 姜承尧 | 详细讲解了 InnoDB 存储引擎内部的各个功能模块的实现原理，包括 InnoDB 存储引擎的体系结构、内存中的数据结构、基于 InnoDB 存储引擎的表和页的物理存储、索引与算法、文件、锁、事务、备份与恢复，以及 InnoDB 的性能调优等重要的知识 | [hpbi](https://pan.baidu.com/s/1O1QqlrBQ1Ld3napjqsKh_Q) |
+| 4 | [MySQL 技术内幕：InnoDB 存储引擎](https://item.jd.com/11252326.html) | 姜承尧 | 详细讲解了 InnoDB 存储引擎内部的各个功能模块的实现原理，包括 InnoDB 存储引擎的体系结构、内存中的数据结构、基于 InnoDB 存储引擎的表和页的物理存储、索引与算法、文件、锁、事务、备份与恢复，以及 InnoDB 的性能调优等重要的知识。 | [hpbi](https://pan.baidu.com/s/1O1QqlrBQ1Ld3napjqsKh_Q) |
 
 ## Frontend
 | # | Title | Author(s) | Abstract | Resource |
