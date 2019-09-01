@@ -44,6 +44,7 @@
 | 2 | [高性能 MySQL 第三版[2013]](https://item.jd.com/11220393.html) | [美] Baron Schwartz 等著<br> 宁海元 等译 | MySQL 领域极佳之作。 | [0ijq](https://pan.baidu.com/s/1qlpa0lzJN_2oXfQiv1V0PQ) |
 | 3 | [Redis 开发与运维[2017]](https://item.jd.com/12121730.html) | 付磊 张益军 | 从开发、运维两个角度总结了Redis实战经验，深入浅出地剖析底层实现，包含大规模集群开发与运维的实际案例、应用技巧。 | [igb1](https://pan.baidu.com/s/1okdvPuoHlgR0J_yjSmmHrQ) |
 | 4 | [MySQL 技术内幕：InnoDB 存储引擎](https://item.jd.com/11252326.html) | 姜承尧 | 详细讲解了 InnoDB 存储引擎内部的各个功能模块的实现原理，包括 InnoDB 存储引擎的体系结构、内存中的数据结构、基于 InnoDB 存储引擎的表和页的物理存储、索引与算法、文件、锁、事务、备份与恢复，以及 InnoDB 的性能调优等重要的知识。 | [hpbi](https://pan.baidu.com/s/1O1QqlrBQ1Ld3napjqsKh_Q) |
+| 5 | [Redis 深度历险：核心原理和应用实践](https://item.jd.com/12464009.html) | 钱文品 | 从 Redis 的基础使用出发，结合实际项目中遇到的诸多应用场景，最后详细讲解集群环境，图文并茂地对 Redis 的特性做了全面解析。 | [i8xq](https://pan.baidu.com/s/1maJBH-OPeghTpNWWe7Iv4Q) |
 
 ## Frontend
 | # | Title | Author(s) | Abstract | Resource |
