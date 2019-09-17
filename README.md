@@ -8,8 +8,8 @@
 
 以下所有书籍资源**仅供预览**，**禁止商用**。写书不易，创作好的作品更是需要耗费很大心力，Doocs 鼓励各位同学**购买正版书籍以支持原书作者**，只要在书籍名称上点击即可跳转到购买页。若列表中某书籍原作者认为 Doocs 侵犯了其版权，请及时联系 [Doocs 项目维护者](mailto:contact@yanglibin.info)从列表中移除该书籍资源，谢谢。
 
-| [Common](#common) | [Network](#network) | [Frontend](#frontend) | [Backend](#backend) | [Database](#database) | [Architecture](#architecture) | [Big Data](#big-data) |
-|---|---|---|---|---|---|---|
+| [Common](#common) | [Network](#network) | [Frontend](#frontend) | [Backend](#backend) | [Database](#database) | [Architecture](#architecture) | [Big Data](#big-data) | [Deep Learning](#deep-learning) |
+|---|---|---|---|---|---|---|---|
 
 ## Common
 | # | Title | Author(s) | Abstract | Resource |
@@ -63,3 +63,5 @@
 | # | Title | Author(s) | Abstract | Resource |
 |---|---|---|---|---|
 | 1 | [HBase 不睡觉书[2018]](https://item.jd.com/26885342700.html) | 杨曦 | 一本让读者看了不会睡着的 HBase 技术书。 | [sjcw](https://pan.baidu.com/s/1mkk1T4kctRdQKPvc6_Z_vQ) |
+
+## Deep Learning
