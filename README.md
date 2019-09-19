@@ -65,31 +65,6 @@
 | 1 | [HBase 不睡觉书[2018]](https://item.jd.com/26885342700.html) | 杨曦 | 一本让读者看了不会睡着的 HBase 技术书。 | [sjcw](https://pan.baidu.com/s/1mkk1T4kctRdQKPvc6_Z_vQ) |
 
 ## Contributors
+This project exists thanks to all the people who contribute. 
 
-### Code Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 <a href="https://github.com/doocs/technical-books/graphs/contributors"><img src="https://opencollective.com/doocs-technical-books/contributors.svg?width=890&button=false" /></a>
-
-### Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/doocs-technical-books/contribute)]
-
-#### Individuals
-
-<a href="https://opencollective.com/doocs-technical-books"><img src="https://opencollective.com/doocs-technical-books/individuals.svg?width=890"></a>
-
-#### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/doocs-technical-books/contribute)]
-
-<a href="https://opencollective.com/doocs-technical-books/organization/0/website"><img src="https://opencollective.com/doocs-technical-books/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/doocs-technical-books/organization/1/website"><img src="https://opencollective.com/doocs-technical-books/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/doocs-technical-books/organization/2/website"><img src="https://opencollective.com/doocs-technical-books/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/doocs-technical-books/organization/3/website"><img src="https://opencollective.com/doocs-technical-books/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/doocs-technical-books/organization/4/website"><img src="https://opencollective.com/doocs-technical-books/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/doocs-technical-books/organization/5/website"><img src="https://opencollective.com/doocs-technical-books/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/doocs-technical-books/organization/6/website"><img src="https://opencollective.com/doocs-technical-books/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/doocs-technical-books/organization/7/website"><img src="https://opencollective.com/doocs-technical-books/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/doocs-technical-books/organization/8/website"><img src="https://opencollective.com/doocs-technical-books/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/doocs-technical-books/organization/9/website"><img src="https://opencollective.com/doocs-technical-books/organization/9/avatar.svg"></a>
