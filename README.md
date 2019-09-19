@@ -68,3 +68,8 @@
 | # | Title | Author(s) | Abstract | Resource |
 |---|---|---|---|---|
 | 1 | [深度学习之 PyTorch 实战计算机视觉[2018]](https://item.jd.com/12356941.html) | 唐进民 | 透彻讲解深度学习、Python、PyTorch、神经网络、迁移学习及相关数学知识。 | [nynu](https://pan.baidu.com/s/1N3-b4jsHdGfcFfKFLPs8LA) |
+
+## Contributors
+This project exists thanks to all the people who contribute. 
+
+<a href="https://github.com/doocs/technical-books/graphs/contributors"><img src="https://opencollective.com/doocs-technical-books/contributors.svg?width=890&button=false" /></a>
