@@ -65,3 +65,6 @@
 | 1 | [HBase 不睡觉书[2018]](https://item.jd.com/26885342700.html) | 杨曦 | 一本让读者看了不会睡着的 HBase 技术书。 | [sjcw](https://pan.baidu.com/s/1mkk1T4kctRdQKPvc6_Z_vQ) |
 
 ## Deep Learning
+| # | Title | Author(s) | Abstract | Resource |
+|---|---|---|---|---|
+| 1 | [深度学习之 PyTorch 实战计算机视觉[2018]](https://item.jd.com/12356941.html) | 唐进民 | 透彻讲解深度学习、Python、PyTorch、神经网络、迁移学习及相关数学知识。 | [nynu](https://pan.baidu.com/s/1N3-b4jsHdGfcFfKFLPs8LA) |
