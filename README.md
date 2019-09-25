@@ -65,6 +65,10 @@
 | # | Title | Author(s) | Abstract | Resource |
 |---|---|---|---|---|
 | 1 | [HBase 不睡觉书[2018]](https://item.jd.com/26885342700.html) | 杨曦 | 一本让读者看了不会睡着的 HBase 技术书。 | [sjcw](https://pan.baidu.com/s/1mkk1T4kctRdQKPvc6_Z_vQ) |
+| 2 | [Hadoop技术内幕:深入解析Hadoop Common和HDFS架构设计与实现原理](https://item.jd.com/11220906.html) | 蔡斌, 陈湘萍著 | 对Common和HDFS的源代码进行了分析, 从源代码实现中对分布式技术的精髓、分布式系统设计的优秀思想和方法 | [wtxu](https://pan.baidu.com/s/14vTc91hOkfpSQLhkgYZo6Q) |
+| 3 | [Hadoop技术内幕 : 深入解析MapReduce架构设计与实现原理](https://item.jd.com/11226135.html) | 董西成著 | 虽然计算框架从MR到Spark再到Flink，但MR的设计思想还是有很大参考价值的, 这本书对MapReduce计算框架的细节解释的很系统 | [3hds](https://pan.baidu.com/s/1TIiPM8AB7434r9glQkRwKw) |
+| 4 | [Spark快速大数据分析](https://item.jd.com/11782888.html) | [美] 卡劳（Holden Karau），[美] 肯维尼斯科（Andy Konwinski），[美] 温德尔（Patrick Wendell），[加] 扎哈里亚（Matei Zaharia） 著，王道远 译 | Spark入门书籍, 适合初学者对Spark的有一个基本全面的了解 | [pfcm](https://pan.baidu.com/s/1ZNm2mryMGpyy62ntOaqYSw) |
+
 
 ## Deep Learning
 | # | Title | Author(s) | Abstract | Resource |
