@@ -36,6 +36,8 @@
 | 7 | [Python 参考手册第 4 版[2016]](https://item.jd.com/12052200.html) | [美]David M.Beazley 著<br>谢俊 等译 | Python 程序员案头必备，涵盖 Python2 和 Python3 共有特性）。 | [wnuh](https://pan.baidu.com/s/1e8ennSUAmj9v5f74zEXsoA) |
 | 8 | [Python3 网络爬虫开发实战[2018]](https://item.jd.com/12333540.html) | 崔庆才 | 全面介绍利用 Python3 开发网络爬虫的知识，包括数据采集、数据存储、动态网站爬取、App爬取、验证码破解、模拟登录、代理使用、爬虫框架、分布式爬取等。 | [jmat](https://pan.baidu.com/s/1qbLl1HBvYdDFYBieVjPvew) |
 | 9 | Go Web 编程 | 谢孟军 | Go 入门书籍。 | [gitbook](https://astaxie.gitbooks.io/build-web-application-with-golang/zh/) |
+| 10 | [流畅的Python](https://item.jd.com/12186192.html) | [巴西] Luciano Ramalho 著，安道，吴珂 译 | Python 进阶必读, 全面的讲解了序列、数据结构、装饰器、类、生成器、迭代器、协程、并发等重要知识点的原理以及实现| [qskp](https://pan.baidu.com/s/1xrgt8edYilE2q9tsKjQH7w) |
+
 
 ## Database
 | # | Title | Author(s) | Abstract | Resource |
