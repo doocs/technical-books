@@ -36,7 +36,7 @@
 | 7 | [Python 参考手册第 4 版[2016]](https://item.jd.com/12052200.html) | [美]David M.Beazley 著<br>谢俊 等译 | Python 程序员案头必备，涵盖 Python2 和 Python3 共有特性）。 | [wnuh](https://pan.baidu.com/s/1e8ennSUAmj9v5f74zEXsoA) |
 | 8 | [Python3 网络爬虫开发实战[2018]](https://item.jd.com/12333540.html) | 崔庆才 | 全面介绍利用 Python3 开发网络爬虫的知识，包括数据采集、数据存储、动态网站爬取、App爬取、验证码破解、模拟登录、代理使用、爬虫框架、分布式爬取等。 | [jmat](https://pan.baidu.com/s/1qbLl1HBvYdDFYBieVjPvew) |
 | 9 | Go Web 编程 | 谢孟军 | Go 入门书籍。 | [gitbook](https://astaxie.gitbooks.io/build-web-application-with-golang/zh/) |
-| 10 | [流畅的Python](https://item.jd.com/12186192.html) | [巴西] Luciano Ramalho 著，安道，吴珂 译 | Python 进阶必读, 全面的讲解了序列、数据结构、装饰器、类、生成器、迭代器、协程、并发等重要知识点的原理以及实现| [qskp](https://pan.baidu.com/s/1xrgt8edYilE2q9tsKjQH7w) |
+| 10 | [流畅的 Python[2018]](https://item.jd.com/12186192.html) | [巴西]Luciano Ramalho 著，安道，吴珂 译 | Python 进阶必读, 全面的讲解了序列、数据结构、装饰器、类、生成器、迭代器、协程、并发等重要知识点的原理以及实现。 | [qskp](https://pan.baidu.com/s/1xrgt8edYilE2q9tsKjQH7w) |
 
 
 ## Database
@@ -45,8 +45,8 @@
 | 1 | [Redis 设计与实现[2014]](http://redisbook.com/) | [黄健宏](https://github.com/huangz1990) | 基于 Redis 3.0，内容通俗易懂，可以深入了解 Redis 底层。 | [q2ky](https://pan.baidu.com/s/16LY5H6XQxcjfOdCz73Z6tA) |
 | 2 | [高性能 MySQL 第三版[2013]](https://item.jd.com/11220393.html) | [美] Baron Schwartz 等著<br> 宁海元 等译 | MySQL 领域极佳之作。 | [0ijq](https://pan.baidu.com/s/1qlpa0lzJN_2oXfQiv1V0PQ) |
 | 3 | [Redis 开发与运维[2017]](https://item.jd.com/12121730.html) | 付磊 张益军 | 从开发、运维两个角度总结了Redis实战经验，深入浅出地剖析底层实现，包含大规模集群开发与运维的实际案例、应用技巧。 | [igb1](https://pan.baidu.com/s/1okdvPuoHlgR0J_yjSmmHrQ) |
-| 4 | [MySQL 技术内幕：InnoDB 存储引擎](https://item.jd.com/11252326.html) | 姜承尧 | 详细讲解了 InnoDB 存储引擎内部的各个功能模块的实现原理，包括 InnoDB 存储引擎的体系结构、内存中的数据结构、基于 InnoDB 存储引擎的表和页的物理存储、索引与算法、文件、锁、事务、备份与恢复，以及 InnoDB 的性能调优等重要的知识。 | [hpbi](https://pan.baidu.com/s/1O1QqlrBQ1Ld3napjqsKh_Q) |
-| 5 | [Redis 深度历险：核心原理和应用实践](https://item.jd.com/12464009.html) | 钱文品 | 从 Redis 的基础使用出发，结合实际项目中遇到的诸多应用场景，最后详细讲解集群环境，图文并茂地对 Redis 的特性做了全面解析。 | [i8xq](https://pan.baidu.com/s/1maJBH-OPeghTpNWWe7Iv4Q) |
+| 4 | [MySQL 技术内幕：InnoDB 存储引擎[2013]](https://item.jd.com/11252326.html) | 姜承尧 | 详细讲解了 InnoDB 存储引擎内部的各个功能模块的实现原理，包括 InnoDB 存储引擎的体系结构、内存中的数据结构、基于 InnoDB 存储引擎的表和页的物理存储、索引与算法、文件、锁、事务、备份与恢复，以及 InnoDB 的性能调优等重要的知识。 | [hpbi](https://pan.baidu.com/s/1O1QqlrBQ1Ld3napjqsKh_Q) |
+| 5 | [Redis 深度历险：核心原理和应用实践[2018]](https://item.jd.com/12464009.html) | 钱文品 | 从 Redis 的基础使用出发，结合实际项目中遇到的诸多应用场景，最后详细讲解集群环境，图文并茂地对 Redis 的特性做了全面解析。 | [i8xq](https://pan.baidu.com/s/1maJBH-OPeghTpNWWe7Iv4Q) |
 
 ## Frontend
 | # | Title | Author(s) | Abstract | Resource |
@@ -65,9 +65,9 @@
 | # | Title | Author(s) | Abstract | Resource |
 |---|---|---|---|---|
 | 1 | [HBase 不睡觉书[2018]](https://item.jd.com/26885342700.html) | 杨曦 | 一本让读者看了不会睡着的 HBase 技术书。 | [sjcw](https://pan.baidu.com/s/1mkk1T4kctRdQKPvc6_Z_vQ) |
-| 2 | [Hadoop技术内幕:深入解析Hadoop Common和HDFS架构设计与实现原理](https://item.jd.com/11220906.html) | 蔡斌, 陈湘萍著 | 对Common和HDFS的源代码进行了分析, 从源代码实现中对分布式技术的精髓、分布式系统设计的优秀思想和方法 | [wtxu](https://pan.baidu.com/s/14vTc91hOkfpSQLhkgYZo6Q) |
-| 3 | [Hadoop技术内幕 : 深入解析MapReduce架构设计与实现原理](https://item.jd.com/11226135.html) | 董西成著 | 虽然计算框架从MR到Spark再到Flink，但MR的设计思想还是有很大参考价值的, 这本书对MapReduce计算框架的细节解释的很系统 | [3hds](https://pan.baidu.com/s/1TIiPM8AB7434r9glQkRwKw) |
-| 4 | [Spark快速大数据分析](https://item.jd.com/11782888.html) | [美] 卡劳（Holden Karau），[美] 肯维尼斯科（Andy Konwinski），[美] 温德尔（Patrick Wendell），[加] 扎哈里亚（Matei Zaharia） 著，王道远 译 | Spark入门书籍, 适合初学者对Spark的有一个基本全面的了解 | [pfcm](https://pan.baidu.com/s/1ZNm2mryMGpyy62ntOaqYSw) |
+| 2 | [Hadoop 技术内幕：深入解析 Hadoop Common 和 HDFS 架构设计与实现原理[2013]](https://item.jd.com/11220906.html) | 蔡斌, 陈湘萍著 | 对 Common 和 HDFS 的源代码进行了分析, 从源代码实现中对分布式技术的精髓、分布式系统设计的优秀思想和方法。 | [wtxu](https://pan.baidu.com/s/14vTc91hOkfpSQLhkgYZo6Q) |
+| 3 | [Hadoop 技术内幕：深入解析 MapReduce 架构设计与实现原理[2013]](https://item.jd.com/11226135.html) | 董西成著 | 虽然计算框架从 MR 到 Spark 再到 Flink，但 MR 的设计思想还是有很大参考价值的, 这本书对 MapReduce 计算框架的细节解释得很系统。 | [3hds](https://pan.baidu.com/s/1TIiPM8AB7434r9glQkRwKw) |
+| 4 | [Spark 快速大数据分析[2015]](https://item.jd.com/11782888.html) | [美] 卡劳（Holden Karau），[美] 肯维尼斯科（Andy Konwinski），[美] 温德尔（Patrick Wendell），[加] 扎哈里亚（Matei Zaharia） 著，王道远 译 | Spark 入门书籍, 让初学者对 Spark 有一个基本全面的了解。 | [pfcm](https://pan.baidu.com/s/1ZNm2mryMGpyy62ntOaqYSw) |
 
 
 ## Deep Learning
