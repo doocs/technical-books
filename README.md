@@ -37,7 +37,7 @@
 | 8 | [Python3 网络爬虫开发实战[2018]](https://item.jd.com/12333540.html) | 崔庆才 | 全面介绍利用 Python3 开发网络爬虫的知识，包括数据采集、数据存储、动态网站爬取、App爬取、验证码破解、模拟登录、代理使用、爬虫框架、分布式爬取等。 | [jmat](https://pan.baidu.com/s/1qbLl1HBvYdDFYBieVjPvew) |
 | 9 | Go Web 编程 | 谢孟军 | Go 入门书籍。 | [gitbook](https://astaxie.gitbooks.io/build-web-application-with-golang/zh/) |
 | 10 | [流畅的 Python[2018]](https://item.jd.com/12186192.html) | [巴西]Luciano Ramalho 著，安道，吴珂 译 | Python 进阶必读, 全面的讲解了序列、数据结构、装饰器、类、生成器、迭代器、协程、并发等重要知识点的原理以及实现。 | [qskp](https://pan.baidu.com/s/1xrgt8edYilE2q9tsKjQH7w) |
-
+| 11 | [重构 改善既有代码的设计 Java语言版](https://item.jd.com/11728740.html) | [美] 马丁·福勒（Martin Fowler） 著，熊节 译 | 重构，一言以蔽之，是在不改变外部行为的前提下，有条不紊地改善代码，普通程序员进阶到编程高手必须修炼的秘笈 | [6kga](https://pan.baidu.com/s/12_EVA2K-ZqamXBH04FoQxQ) |
 
 ## Database
 | # | Title | Author(s) | Abstract | Resource |
