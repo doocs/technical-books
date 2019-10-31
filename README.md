@@ -18,6 +18,7 @@
 | 2 | [码农翻身：用故事给技术加点料[2018]](https://item.jd.com/12364204.html) | 刘欣 | 用故事方式讲述软件编程的若干重要领域，侧重于基础性、原理性的知识。| [2d9s](https://pan.baidu.com/s/1AoeK1qg9jxUIOx5HQbhvEg) |
 | 3 | [程序员健康指南[2014]](https://item.jd.com/11534081.html) | [美]Joe Kutner 著<br>陈少芸 译 | 从运动、饮食等方面给出详细指导，帮助开发人员在不改变工作方式的情况下轻松拥有健康。 | [ng96](https://pan.baidu.com/s/103E1N5rdPE61slBb8UA2Ug) |
 | 4 | [领域驱动设计：软件核心复杂性应对之道（修订版）[2016]](https://item.jd.com/11961038.html) | [美]Eric Evans 著<br>赵俐 盛海艳 刘霞 等 译 | 领域驱动设计方面的经典之作，围绕设计和开发实践，结合真实项目案例，阐述如何在真实的软件项目开发中应用领域驱动设计。 | [73r2](https://pan.baidu.com/s/1ZNLMgyfc-SobPkTZXe7Mrw) |
+| 5 | [Clean Code a handbook of agile software craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?crid=1MK0AM5DLZ02R&keywords=clean+code+a+handbook+of+agile+software+craftsmanship&qid=1572491629&sprefix=clean+code%2Caps%2C230&sr=8-1) | [美]Robert C. Martin 著| 介绍如何才能简化代码以及保持良好的代码风格，建议与google coding style 一起服用 |
 
 ## Network
 | # | Title | Author(s) | Abstract | Resource |
@@ -60,7 +61,7 @@
 | 3 | [大型网站技术架构：核心原理与案例分析[2013]](https://item.jd.com/11322972.html) | 李智慧 | 梳理大型网站技术发展历程，剖析大型网站技术架构模式，深入讲述大型互联网架构设计的核心原理。 | [8epr](https://pan.baidu.com/s/1kOlVfWTQz9Q5uBLrlqJCQA) |
 | 4 | [亿级流量网站架构核心技术：跟开涛学搭建高可用高并发系统[2017]](https://item.jd.com/12153914.html) | 张开涛 | 总结并梳理了亿级流量网站高可用和高并发原则，通过实例详细介绍了如何落地这些原则。 | [2v7a](https://pan.baidu.com/s/1knj-zhoQ1YEv98e1SU0-bw) |
 | 5 | [逆流而上：阿里巴巴技术成长之路[2018]](https://item.jd.com/12238227.html) | 阿里巴巴集团成长集编委会 | 总结阿里巴巴技术团队在基础架构、中间件、数据库、业务开发等领域的经典实践以及对未来的思考。 | [coi5](https://pan.baidu.com/s/1dxLsKJx-G0LZazVKLJljsA) |
-
+| 6 | [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?crid=Z5KFT37S30KI&keywords=designing+data-intensive+applications&qid=1572491800&sprefix=designing+da%2Caps%2C194&sr=8-1) | Martin Kleppmann | 从大数据的角度分析，如何设计一个稳定，易维护，规模化的系统
 ## Big Data
 | # | Title | Author(s) | Abstract | Resource |
 |---|---|---|---|---|
@@ -76,6 +77,6 @@
 | 1 | [深度学习之 PyTorch 实战计算机视觉[2018]](https://item.jd.com/12356941.html) | 唐进民 | 透彻讲解深度学习、Python、PyTorch、神经网络、迁移学习及相关数学知识。 | [nynu](https://pan.baidu.com/s/1N3-b4jsHdGfcFfKFLPs8LA) |
 
 ## Contributors
-This project exists thanks to all the people who contribute. 
+This project exists thanks to all the people who contribute.
 
 <a href="https://github.com/doocs/technical-books/graphs/contributors"><img src="https://opencollective.com/doocs-technical-books/contributors.svg?width=890&button=false" /></a>
