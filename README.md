@@ -22,7 +22,7 @@
 
 ## Network
 | # | Title | Author(s) | Abstract | Resource |
-|---|---|---|:-:|---|
+|---|---|---|---|---|
 | 1 | [图解 HTTP[2014]](https://item.jd.com/11449491.html) | [日]上野宣 著<br>于均良译 | 对 HTTP 协议进行了全面系统的介绍，讲解的同时，辅以大量生动形象的通信图例，更好地帮助读者深刻理解HTTP通信过程中客户端与服务器之间的交互情况。| [5knq](https://pan.baidu.com/s/1sQ8vEx5CSnEgGkng-NmWXg) |
 | 2 | [TCP/IP详解 卷1：协议](https://item.jd.com/10479365347.html) | [美] Kevin R.Fall、W.Richard Stevens 著<br>吴英,张玉,许昱玮 译 |主要讲述TCP/IP协议，不仅仅讲述RFC的标准协议，而且结合大量实例讲述了TCP/IP协议族的定义原因，以及在各种不同的操作系统中的应用及工作方式，使读者可以轻松掌握TCP/IP的知识。|[v84n](https://pan.baidu.com/s/1VowtUEluwTDwnhcvKmSHcw)|
 
