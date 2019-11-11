@@ -18,11 +18,14 @@
 | 2 | [码农翻身：用故事给技术加点料[2018]](https://item.jd.com/12364204.html) | 刘欣 | 用故事方式讲述软件编程的若干重要领域，侧重于基础性、原理性的知识。| [2d9s](https://pan.baidu.com/s/1AoeK1qg9jxUIOx5HQbhvEg) |
 | 3 | [程序员健康指南[2014]](https://item.jd.com/11534081.html) | [美]Joe Kutner 著<br>陈少芸 译 | 从运动、饮食等方面给出详细指导，帮助开发人员在不改变工作方式的情况下轻松拥有健康。 | [ng96](https://pan.baidu.com/s/103E1N5rdPE61slBb8UA2Ug) |
 | 4 | [领域驱动设计：软件核心复杂性应对之道（修订版）[2016]](https://item.jd.com/11961038.html) | [美]Eric Evans 著<br>赵俐 盛海艳 刘霞 等 译 | 领域驱动设计方面的经典之作，围绕设计和开发实践，结合真实项目案例，阐述如何在真实的软件项目开发中应用领域驱动设计。 | [73r2](https://pan.baidu.com/s/1ZNLMgyfc-SobPkTZXe7Mrw) |
+| 5 | [深入理解计算机系统(原书第2版)[2011]](https://item.jd.com/11030145668.html) | [美]Randal E.Bryant等著<br>龚奕利,雷迎春译 | 本书是一本将计算机软件和硬件理论结合讲述的经典教程，内容涵盖计算机导论、体系结构和处理器设计等多门课程。 | [sr0b](https://pan.baidu.com/s/1MFnCFhId_v-WLcuZPzlVBA) |
 
 ## Network
 | # | Title | Author(s) | Abstract | Resource |
 |---|---|---|---|---|
 | 1 | [图解 HTTP[2014]](https://item.jd.com/11449491.html) | [日]上野宣 著<br>于均良译 | 对 HTTP 协议进行了全面系统的介绍，讲解的同时，辅以大量生动形象的通信图例，更好地帮助读者深刻理解HTTP通信过程中客户端与服务器之间的交互情况。| [5knq](https://pan.baidu.com/s/1sQ8vEx5CSnEgGkng-NmWXg) |
+| 2 | [TCP/IP详解 卷1：协议](https://item.jd.com/10479365347.html) | [美] Kevin R.Fall、W.Richard Stevens 著<br>吴英,张玉,许昱玮 译 |主要讲述TCP/IP协议，不仅仅讲述RFC的标准协议，而且结合大量实例讲述了TCP/IP协议族的定义原因，以及在各种不同的操作系统中的应用及工作方式，使读者可以轻松掌握TCP/IP的知识。|[v84n](https://pan.baidu.com/s/1VowtUEluwTDwnhcvKmSHcw)|
+
 
 ## Backend
 | # | Title | Author(s) | Abstract | Resource |
@@ -38,6 +41,7 @@
 | 9 | Go Web 编程 | 谢孟军 | Go 入门书籍。 | [gitbook](https://astaxie.gitbooks.io/build-web-application-with-golang/zh/) |
 | 10 | [流畅的 Python[2018]](https://item.jd.com/12186192.html) | [巴西]Luciano Ramalho 著，安道，吴珂 译 | Python 进阶必读, 全面的讲解了序列、数据结构、装饰器、类、生成器、迭代器、协程、并发等重要知识点的原理以及实现。 | [qskp](https://pan.baidu.com/s/1xrgt8edYilE2q9tsKjQH7w) |
 | 11 | [重构 改善既有代码的设计 Java语言版](https://item.jd.com/11728740.html) | [美] 马丁·福勒（Martin Fowler） 著，熊节 译 | 重构，一言以蔽之，是在不改变外部行为的前提下，有条不紊地改善代码，普通程序员进阶到编程高手必须修炼的秘笈 | [6kga](https://pan.baidu.com/s/12_EVA2K-ZqamXBH04FoQxQ) |
+| 12 | [疯狂Java讲义](https://item.jd.com/12518025.html) | 李刚 著 | 涉及大量实用案例开发：五子棋游戏、仿QQ的游戏大厅等 | [mdlf](https://pan.baidu.com/s/1KPbHVgWyfh6h2uAmm_dYrg) |
 
 ## Database
 | # | Title | Author(s) | Abstract | Resource |
