@@ -55,9 +55,9 @@
 ## Frontend
 | # | Title | Author(s) | Abstract |
 |---|---|---|---|
-| 1 | [你不知道的JavaScript（上卷）](https://item.jd.com/11676671.html) | [美] 辛普森（Kyle Simpson） 著，赵望野，梁杰 译 | JavaScript开发经典入门图书 打通JavaScript的任督二脉 领略语言内部的绝美风光 |
-| 2 | [你不知道的JavaScript（中卷）](https://item.jd.com/12030814.html) | [美] 辛普森（Kyle Simpson） 著，单业，姜南 译 | 深入挖掘JavaScript语言本质 简练形象地解释抽象概念 打通JavaScript的任督二脉 |
-| 3 | [你不知道的JavaScript（下卷）](https://item.jd.com/12291874.html#crumb-wrap) | [美] 凯尔·辛普森（Kyle Simpson） 著，单业 译 | 探索JavaScript语言核心概念 深入了解ES6，展望JavaScript发展方向 |
+| 1 | [你不知道的 JavaScript（上卷）](https://item.jd.com/11676671.html) | [美] 辛普森（Kyle Simpson） 著，赵望野，梁杰 译 | JavaScript 开发经典入门图书，打通 JavaScript 的任督二脉，领略语言内部的绝美风光。 |
+| 2 | [你不知道的 JavaScript（中卷）](https://item.jd.com/12030814.html) | [美] 辛普森（Kyle Simpson） 著，单业，姜南 译 | 深入挖掘 JavaScript 语言本质，简练形象地解释抽象概念，打通 JavaScript 的任督二脉。 |
+| 3 | [你不知道的 JavaScript（下卷）](https://item.jd.com/12291874.html#crumb-wrap) | [美] 凯尔·辛普森（Kyle Simpson） 著，单业 译 | 探索 JavaScript 语言核心概念 深入了解 ES6，展望 JavaScript 发展方向。 |
 
 ## Architecture
 | # | Title | Author(s) | Abstract |
