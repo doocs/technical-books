@@ -42,6 +42,8 @@
 | 10 | [流畅的 Python[2018]](https://item.jd.com/12186192.html) | [巴西]Luciano Ramalho 著，安道，吴珂 译 | Python 进阶必读, 全面的讲解了序列、数据结构、装饰器、类、生成器、迭代器、协程、并发等重要知识点的原理以及实现。 |
 | 11 | [重构 改善既有代码的设计 Java语言版](https://item.jd.com/11728740.html) | [美] 马丁·福勒（Martin Fowler） 著，熊节 译 | 重构，一言以蔽之，是在不改变外部行为的前提下，有条不紊地改善代码，普通程序员进阶到编程高手必须修炼的秘笈 |
 | 12 | [疯狂Java讲义](https://item.jd.com/12518025.html) | 李刚 著 | 涉及大量实用案例开发：五子棋游戏、仿QQ的游戏大厅等 |
+| 13 | [深入浅出Node.js](https://item.jd.com/11355978.html) | 朴灵 著 | 深入讲解Node的图书 讲述基于JavaScript运行时所建立的平台原理 与mongodb结合操作的具体案例 响应式设计别具匠心 |
+
 
 ## Database
 | # | Title | Author(s) | Abstract |
