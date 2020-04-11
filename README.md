@@ -8,6 +8,10 @@
 
 写书不易，创作好的作品更是需要耗费很大心力，Doocs 鼓励各位同学**购买正版书籍以支持原书作者**，只要在书籍名称上点击即可跳转到购买页。好书推荐请到 [Issues 讨论区](https://github.com/doocs/technical-books/issues/2)，也可以直接提交 [PR](https://github.com/doocs/technical-books/pulls)。
 
+- Netlify: https://techbooks.netlify.com
+- Gitee Pages: https://doocs.gitee.io/technical-books
+- GitHub Pages: https://doocs.github.io/technical-books
+
 | [Common](#common) | [Network](#network) | [Frontend](#frontend) | [Backend](#backend) | [Database](#database) | [Architecture](#architecture) | [Big Data](#big-data) | [Deep Learning](#deep-learning) |
 |---|---|---|---|---|---|---|---|
 
@@ -42,7 +46,7 @@
 | 10 | [流畅的 Python[2018]](https://item.jd.com/12186192.html) | [巴西]Luciano Ramalho 著，安道，吴珂 译 | Python 进阶必读, 全面的讲解了序列、数据结构、装饰器、类、生成器、迭代器、协程、并发等重要知识点的原理以及实现。 |
 | 11 | [重构 改善既有代码的设计 Java语言版](https://item.jd.com/11728740.html) | [美] 马丁·福勒（Martin Fowler） 著，熊节 译 | 重构，一言以蔽之，是在不改变外部行为的前提下，有条不紊地改善代码，普通程序员进阶到编程高手必须修炼的秘笈 |
 | 12 | [疯狂Java讲义](https://item.jd.com/12518025.html) | 李刚 著 | 涉及大量实用案例开发：五子棋游戏、仿QQ的游戏大厅等 |
-| 13 | [深入浅出Node.js](https://item.jd.com/11355978.html) | 朴灵 著 | 深入讲解Node的图书 讲述基于JavaScript运行时所建立的平台原理 与mongodb结合操作的具体案例 响应式设计别具匠心 |
+| 13 | [深入浅出 Node.js](https://item.jd.com/11355978.html) | 朴灵 著 | 深入讲解 Node 的图书。讲述基于 JavaScript 运行时所建立的平台原理，与 mongodb 结合操作的具体案例，响应式设计别具匠心。 |
 
 
 ## Database
@@ -60,7 +64,7 @@
 | 1 | [你不知道的 JavaScript（上卷）](https://item.jd.com/11676671.html) | [美] 辛普森（Kyle Simpson） 著，赵望野，梁杰 译 | JavaScript 开发经典入门图书，打通 JavaScript 的任督二脉，领略语言内部的绝美风光。 |
 | 2 | [你不知道的 JavaScript（中卷）](https://item.jd.com/12030814.html) | [美] 辛普森（Kyle Simpson） 著，单业，姜南 译 | 深入挖掘 JavaScript 语言本质，简练形象地解释抽象概念，打通 JavaScript 的任督二脉。 |
 | 3 | [你不知道的 JavaScript（下卷）](https://item.jd.com/12291874.html#crumb-wrap) | [美] 凯尔·辛普森（Kyle Simpson） 著，单业 译 | 探索 JavaScript 语言核心概念 深入了解 ES6，展望 JavaScript 发展方向。 |
-| 4 | [Three.js开发指南](https://item.jd.com/12113317.html) | [美] 乔斯·德克森（Jos Dirksen） 著，杨芬 译 | 全面讲解Three.js开发的实用指南，涵盖Three.js的各种功能；通过大量交互式示例，深入探索使用开源的Three.js库创建绚丽三维图形的实用方法和技巧。 |
+| 4 | [Three.js开发指南](https://item.jd.com/12113317.html) | [美] 乔斯·德克森（Jos Dirksen） 著，杨芬 译 | 全面讲解 Three.js 开发的实用指南，涵盖 Three.js 的各种功能；通过大量交互式示例，深入探索使用开源的 Three.js 库创建绚丽三维图形的实用方法和技巧。 |
 
 ## Architecture
 | # | Title | Author(s) | Abstract |
