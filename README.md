@@ -83,6 +83,7 @@
 | 3 | [Hadoop 技术内幕：深入解析 MapReduce 架构设计与实现原理[2013]](https://item.jd.com/11226135.html) | 董西成著 | 虽然计算框架从 MR 到 Spark 再到 Flink，但 MR 的设计思想还是有很大参考价值的, 这本书对 MapReduce 计算框架的细节解释得很系统。 |
 | 4 | [Spark 快速大数据分析[2015]](https://item.jd.com/11782888.html) | [美] 卡劳（Holden Karau），[美] 肯维尼斯科（Andy Konwinski），[美] 温德尔（Patrick Wendell），[加] 扎哈里亚（Matei Zaharia） 著，王道远 译 | Spark 入门书籍, 让初学者对 Spark 有一个基本全面的了解。 |
 | 5 | [Elasticsearch 权威指南](https://github.com/GavinFoo/elasticsearch-definitive-guide/) | clinton gormley，zachary tong 著，Gavin Foo 译 | 讲解结构化搜索、统计、查询过滤、地理定位、提升 Elasticsearch 的性能。 |
+| 6 | [Spark SQL 内核解剖](https://item.jd.com/12415659.html) | 朱锋 张韶全 黄明 著 | Spark高阶玩家晋级宝典 腾讯T4亲传大规模分布式系统实践 |
 
 
 ## Deep Learning
