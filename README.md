@@ -1,7 +1,7 @@
 # 值得一看的技术类书籍列表
 
 [![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
-[![license](https://badgen.net/github/license/doocs/technical-books?color=green)](https://github.com/doocs/technical-books/blob/master/LICENSE)
+[![license](https://badgen.net/github/license/doocs/technical-books?color=green)](https://github.com/doocs/technical-books/blob/main/LICENSE)
 [![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](https://github.com/doocs/doocs.github.io#how-to-join)
 [![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
 
