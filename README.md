@@ -16,7 +16,6 @@
 | [Common](#common) | [Network](#network) | [Frontend](#frontend) | [Backend](#backend) | [Database](#database) | [Architecture](#architecture) | [Big Data](#big-data) | [Deep Learning](#deep-learning) |
 | ----------------- | ------------------- | --------------------- | ------------------- | --------------------- | ----------------------------- | --------------------- | ------------------------------- |
 
-
 ## Common
 
 | #   | Title                                                                                     | Author(s)                                   | Abstract                                                                                                                             |
