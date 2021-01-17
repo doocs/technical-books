@@ -13,8 +13,8 @@
 - Gitee Pages: https://doocs.gitee.io/technical-books
 - GitHub Pages: https://doocs.github.io/technical-books
 
-| [Common](#common) | [Network](#network) | [Frontend](#frontend) | [Backend](#backend) | [Database](#database) | [Architecture](#architecture) | [Big Data](#big-data) | [Deep Learning](#deep-learning) | [TOOL](#tool)
-| ----------------- | ------------------- | --------------------- | ------------------- | --------------------- | ----------------------------- | --------------------- | ------------------------------- |------------------------------- |
+| [Common](#common) | [Network](#network) | [Frontend](#frontend) | [Backend](#backend) | [Database](#database) | [Architecture](#architecture) | [Big Data](#big-data) | [Deep Learning](#deep-learning) | [Tool](#tool) |
+| ----------------- | ------------------- | --------------------- | ------------------- | --------------------- | ----------------------------- | --------------------- | ------------------------------- | ------------- |
 
 ## Common
 
@@ -67,14 +67,14 @@
 
 ## Frontend
 
-| #    | Title                                                        | Author(s)                                                    | Abstract                                                     |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | [你不知道的 JavaScript（上卷）](https://item.jd.com/11676671.html) | [美] 辛普森（Kyle Simpson） 著，赵望野，梁杰 译              | JavaScript 开发经典入门图书，打通 JavaScript 的任督二脉，领略语言内部的绝美风光。 |
-| 2    | [你不知道的 JavaScript（中卷）](https://item.jd.com/12030814.html) | [美] 辛普森（Kyle Simpson） 著，单业，姜南 译                | 深入挖掘 JavaScript 语言本质，简练形象地解释抽象概念，打通 JavaScript 的任督二脉。 |
-| 3    | [你不知道的 JavaScript（下卷）](https://item.jd.com/12291874.html#crumb-wrap) | [美] 凯尔·辛普森（Kyle Simpson） 著，单业 译                 | 探索 JavaScript 语言核心概念 深入了解 ES6，展望 JavaScript 发展方向。 |
-| 4    | [Three.js 开发指南](https://item.jd.com/12113317.html)       | [美] 乔斯·德克森（Jos Dirksen） 著，杨芬 译                  | 全面讲解 Three.js 开发的实用指南，涵盖 Three.js 的各种功能；通过大量交互式示例，深入探索使用开源的 Three.js 库创建绚丽三维图形的实用方法和技巧。 |
-| 5    | [JavaScript忍者秘籍 第2版](https://item.jd.com/12306772.html) | [美] John Resig（莱西格），Bear Bibeault（贝比奥特），Josip Maras（马瑞斯） 著 | 从界面构建、事件循环、函数、闭包、正则表达式等都有探索，唯一的不足就是翻译不够完美，有能力可以看原版 |
-| 6    | [JavaScript设计模式与开发实践](https://item.jd.com/11686375.html) | 曾探 著                                                      | 介绍了Javascript中常用的一些设计模式，并结合了具体的例子，对如何优化和改进自己的代码有很好的启发 |
+| #   | Title                                                                         | Author(s)                                                                      | Abstract                                                                                                                                         |
+| --- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | [你不知道的 JavaScript（上卷）](https://item.jd.com/11676671.html)            | [美] 辛普森（Kyle Simpson） 著，赵望野，梁杰 译                                | JavaScript 开发经典入门图书，打通 JavaScript 的任督二脉，领略语言内部的绝美风光。                                                                |
+| 2   | [你不知道的 JavaScript（中卷）](https://item.jd.com/12030814.html)            | [美] 辛普森（Kyle Simpson） 著，单业，姜南 译                                  | 深入挖掘 JavaScript 语言本质，简练形象地解释抽象概念，打通 JavaScript 的任督二脉。                                                               |
+| 3   | [你不知道的 JavaScript（下卷）](https://item.jd.com/12291874.html#crumb-wrap) | [美] 凯尔·辛普森（Kyle Simpson） 著，单业 译                                   | 探索 JavaScript 语言核心概念 深入了解 ES6，展望 JavaScript 发展方向。                                                                            |
+| 4   | [Three.js 开发指南](https://item.jd.com/12113317.html)                        | [美] 乔斯·德克森（Jos Dirksen） 著，杨芬 译                                    | 全面讲解 Three.js 开发的实用指南，涵盖 Three.js 的各种功能；通过大量交互式示例，深入探索使用开源的 Three.js 库创建绚丽三维图形的实用方法和技巧。 |
+| 5   | [JavaScript 忍者秘籍 第 2 版](https://item.jd.com/12306772.html)              | [美] John Resig（莱西格），Bear Bibeault（贝比奥特），Josip Maras（马瑞斯） 著 | 从界面构建、事件循环、函数、闭包、正则表达式等都有探索，唯一的不足就是翻译不够完美，有能力可以看原版                                             |
+| 6   | [JavaScript 设计模式与开发实践](https://item.jd.com/11686375.html)            | 曾探 著                                                                        | 介绍了 Javascript 中常用的一些设计模式，并结合了具体的例子，对如何优化和改进自己的代码有很好的启发                                               |
 
 ## Architecture
 
@@ -96,7 +96,7 @@
 | 3   | [Hadoop 技术内幕：深入解析 MapReduce 架构设计与实现原理[2013]](https://item.jd.com/11226135.html)             | 董西成著                                                                                                                                   | 虽然计算框架从 MR 到 Spark 再到 Flink，但 MR 的设计思想还是有很大参考价值的, 这本书对 MapReduce 计算框架的细节解释得很系统。 |
 | 4   | [Spark 快速大数据分析[2015]](https://item.jd.com/11782888.html)                                               | [美] 卡劳（Holden Karau），[美] 肯维尼斯科（Andy Konwinski），[美] 温德尔（Patrick Wendell），[加] 扎哈里亚（Matei Zaharia） 著，王道远 译 | Spark 入门书籍, 让初学者对 Spark 有一个基本全面的了解。                                                                      |
 | 5   | [Elasticsearch 权威指南](https://github.com/GavinFoo/elasticsearch-definitive-guide/)                         | clinton gormley，zachary tong 著，Gavin Foo 译                                                                                             | 讲解结构化搜索、统计、查询过滤、地理定位、提升 Elasticsearch 的性能。                                                        |
-| 6   | [Spark SQL 内核解剖](https://item.jd.com/12415659.html)                                                       | 朱锋 张韶全 黄明 著                                                                                                                        | Spark 高阶玩家晋级宝典 腾讯 T4 亲传大规模分布式系统实践                                                                      |
+| 6   | [Spark SQL 内核解剖](https://item.jd.com/12415659.html)                                                       | 朱锋 张韶全 黄明 著                                                                                                                        | Spark 高阶玩家晋级宝典 腾讯 T4 亲传大规模分布式系统实践。                                                                    |
 
 ## Deep Learning
 
@@ -104,12 +104,12 @@
 | --- | ---------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------- |
 | 1   | [深度学习之 PyTorch 实战计算机视觉[2018]](https://item.jd.com/12356941.html) | 唐进民    | 透彻讲解深度学习、Python、PyTorch、神经网络、迁移学习及相关数学知识。 |
 
-## TOOL
+## Tool
 
-| #   | Title                                                                        | Author(s) | Abstract                                                              |
-| --- | ---------------------------------------------------------------------------- | --------- | :-------------------------------------------------------------------: |
-| 1   | [Vim实用技巧 第2版](https://item.jd.com/12056490.html) | [英] Drew Neil（尼尔） 著，杨源，车文隆 译 | 从Vim的一些逻辑理念入手，而不是死记硬背命令，讲解了各种Vim中的模式、文件、跳转、寄存器、查找、替换等，结合给出一个个技巧，针对性解决各类问题 ，对新手很友好，也适合进阶。可以先练习一遍vimtutor再看这本书，看完后推荐https://vimawesome.com/ 可以选择自己需要的插件开始打造属于自己独一无二编辑器 |
-| 2   | [Git权威指南](https://item.jd.com/31164719078.html) | 蒋鑫 著 | 深入讲解了Git底层的一些原理，知其然知其所以然，看完会深深感受到Git的强大|
+| #   | Title                                                     | Author(s)                                  | Abstract                                                                                                                                                                                                                                                                                                   |
+| --- | --------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Vim 实用技巧 第 2 版](https://item.jd.com/12056490.html) | [英] Drew Neil（尼尔） 著，杨源，车文隆 译 | 从 Vim 的一些逻辑理念入手，而不是死记硬背命令，讲解了各种 Vim 中的模式、文件、跳转、寄存器、查找、替换等，结合给出一个个技巧，针对性解决各类问题 ，对新手很友好，也适合进阶。可以先练习一遍 vimtutor 再看这本书，看完后推荐 https://vimawesome.com/ 可以选择自己需要的插件开始打造属于自己独一无二编辑器。 |
+| 2   | [Git 权威指南](https://item.jd.com/31164719078.html)      | 蒋鑫 著                                    | 深入讲解了 Git 底层的一些原理，知其然知其所以然，看完会深深感受到 Git 的强大。                                                                                                                                                                                                                             |
 
 ## Other
 
