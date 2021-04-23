@@ -7,7 +7,7 @@
 
 书籍是人们获取知识的主要途径。然而，如今的社会太浮躁，不少人不愿意花时间静下心来仔细读书，很多开发人员也是如此。殊不知，书籍沉淀了前人的经验和思考。
 
-写书不易，创作好的作品更是需要耗费很大心力，Doocs 鼓励各位同学**购买正版书籍以支持原书作者**，只要在书籍名称上点击即可跳转到购买页。好书推荐请到 [Issues 讨论区](https://github.com/doocs/technical-books/issues/2)，也可以直接提交 [PR](https://github.com/doocs/technical-books/pulls)。
+写书不易，创作好的作品更是需要耗费很大心力，Doocs 鼓励各位同学**购买正版书籍以支持原书作者**，只要在书籍名称上点击即可跳转到购买页。好书推荐请到 [Discussions 讨论区](https://github.com/doocs/technical-books/discussions/30)，也可以直接提交 [PR](https://github.com/doocs/technical-books/pulls)。
 
 - Netlify: https://techbooks.netlify.app
 - Gitee Pages: https://doocs.gitee.io/technical-books
