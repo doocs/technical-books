@@ -46,16 +46,13 @@
         }
       },
       plugins: [
-        function (hook) {
-          const footer = [
-            "<hr/>",
-            "<footer>",
-            '<span>Copyright © 2018-2021 <a href="https://github.com/doocs" target="_blank">Doocs</a> All rights reserved.</span>',
-            "</footer>",
-          ].join("");
-
+        function (hook, vm) {
           hook.afterEach(function (html) {
-            return html + footer;
+            const en = vm.route.file.indexOf('README_EN') != -1
+            const copyright = en ? '. All Rights Reserved' : ' 版权所有'
+            const currentYear = new Date().getFullYear()
+            const footer = `<footer><span>Copyright © 2018-${currentYear} <a href="https://github.com/doocs" target="_blank">Doocs</a>${copyright}</footer>`
+            return html + footer
           });
         },
       ],
