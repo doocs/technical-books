@@ -9,7 +9,6 @@
 
 写书不易，创作好的作品更是需要耗费很大心力，Doocs 鼓励各位同学**购买正版书籍以支持原书作者**，只要在书籍名称上点击即可跳转到购买页。好书推荐请到 [Discussions 讨论区](https://github.com/doocs/technical-books/discussions/30)，也可以直接提交 [PR](https://github.com/doocs/technical-books/pulls)。
 
-- Netlify: https://techbooks.netlify.app
 - Gitee Pages: https://doocs.gitee.io/technical-books
 - GitHub Pages: https://doocs.github.io/technical-books
 
