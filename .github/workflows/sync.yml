@@ -19,10 +19,10 @@ jobs:
           source-repo: git@github.com:doocs/technical-books.git
           destination-repo: git@gitee.com:Doocs/technical-books.git
 
-      - name: Build Gitee Pages
-        uses: yanglbme/gitee-pages-action@main
-        with:
-          gitee-username: yanglbme
-          gitee-password: ${{ secrets.GITEE_PASSWORD }}
-          gitee-repo: doocs/technical-books
-          branch: main
+      # - name: Build Gitee Pages
+      #   uses: yanglbme/gitee-pages-action@main
+      #   with:
+      #     gitee-username: yanglbme
+      #     gitee-password: ${{ secrets.GITEE_PASSWORD }}
+      #     gitee-repo: doocs/technical-books
+      #     branch: main
