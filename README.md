@@ -15,7 +15,6 @@
 | [Core](#core) | [Network](#network) | [Frontend](#frontend) | [Backend](#backend) | [Database](#database) | [Architecture](#architecture) | [Big Data](#big-data) | [Tool](#tool) |
 | ------------- | ------------------- | --------------------- | ------------------- | --------------------- | ----------------------------- | --------------------- | ------------- |
 
-
 ## Core
 
 | #   | Title                                                                                     | Author(s)                                                                                                  | Abstract                                                                                                                                                                                                                                                                                  |
