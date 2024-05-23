@@ -61,7 +61,7 @@
 | 17  | [Linux 高性能服务器编程](http://product.dangdang.com/1794160806.html)                                                           | 游双 著                                                                          | Linux 服务器编程领域的经典著作，由资深 Linux 软件开发工程师撰写，从网络协议、服务器编程核心要素、原理机制、工具框架等多角度全面阐释了编写高性能 Linux 服务器应用的方法、技巧和思想。不仅理论全面、深入，抓住了重点和难点，还包含两个综合性案例，极具实战意义。                                                    |
 | 18  | [Effective C++：改善程序与设计的 55 个具体做法（第三版）中文版](http://product.dangdang.com/29155762.html)                      | [美] Scott Meyers 著<br />侯捷 译                                                | Effective C++是世界顶级 C++ 大师 Scott Meyers 的成名之作，初版于 1991 年。在国际上，这本书所引起的反响之大，波及整个计算机技术出版领域，余音至今未绝。几乎在所有 C++ 书籍的推荐名单上，这部专著都会位于前三名。作者高超的技术把握力，独特的视角、诙谐轻松的写作风格、独具匠心的内容组织，都受到极大的推崇和仿效。 |
 | 19  | [软件框架设计的艺术（Practical API Design Confessions of a Java Framework Architect）](https://item.jd.com/10051549069078.html) | [[捷\] Jaroslav Tulach 著<br />王磊/朱兴 译                                      | 本书作者是 NetBeans 的创始人，也是 NetBeans 项目最初的架构师。对 API 与框架设计提供深刻见解。强调实践与源码分析，适合有一定经验的 Java 开发者。                                                                                                                                                                   |
-| 20  | [Java编程的逻辑](https://item.jd.com/12299018.html) | 马俊昌 著                           |  作者按照由浅入深、由易到难的顺序组织内容，使读者能够循序渐进地掌握Java编程的知识和技能，适合1-3年的java开发。  |
+| 20  | [Java编程的逻辑](https://item.jd.com/12299018.html) | 马俊昌 著                           |  作者按照由浅入深、由易到难的顺序组织内容，使读者能够循序渐进地掌握Java编程的知识和技能，适合1-3年的Java开发。  |
 
 ## Database
 
