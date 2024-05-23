@@ -61,6 +61,7 @@
 | 17  | [Linux 高性能服务器编程](http://product.dangdang.com/1794160806.html)                                                           | 游双 著                                                                          | Linux 服务器编程领域的经典著作，由资深 Linux 软件开发工程师撰写，从网络协议、服务器编程核心要素、原理机制、工具框架等多角度全面阐释了编写高性能 Linux 服务器应用的方法、技巧和思想。不仅理论全面、深入，抓住了重点和难点，还包含两个综合性案例，极具实战意义。                                                    |
 | 18  | [Effective C++：改善程序与设计的 55 个具体做法（第三版）中文版](http://product.dangdang.com/29155762.html)                      | [美] Scott Meyers 著<br />侯捷 译                                                | Effective C++是世界顶级 C++ 大师 Scott Meyers 的成名之作，初版于 1991 年。在国际上，这本书所引起的反响之大，波及整个计算机技术出版领域，余音至今未绝。几乎在所有 C++ 书籍的推荐名单上，这部专著都会位于前三名。作者高超的技术把握力，独特的视角、诙谐轻松的写作风格、独具匠心的内容组织，都受到极大的推崇和仿效。 |
 | 19  | [软件框架设计的艺术（Practical API Design Confessions of a Java Framework Architect）](https://item.jd.com/10051549069078.html) | [[捷\] Jaroslav Tulach 著<br />王磊/朱兴 译                                      | 本书作者是 NetBeans 的创始人，也是 NetBeans 项目最初的架构师。对 API 与框架设计提供深刻见解。强调实践与源码分析，适合有一定经验的 Java 开发者。                                                                                                                                                                   |
+| 20  | [Java 编程的逻辑](https://item.jd.com/12299018.html)                                                                            | 马俊昌 著                                                                        | 作者按照由浅入深、由易到难的顺序组织内容，使读者能够循序渐进地掌握 Java 编程的知识和技能，适合 1-3 年的 Java 开发。                                                                                                                                                                                               |
 
 ## Database
 
@@ -72,17 +73,19 @@
 | 4   | [MySQL 技术内幕：InnoDB 存储引擎[2013]](https://item.jd.com/11252326.html)    | 姜承尧                                                  | 详细讲解了 InnoDB 存储引擎内部的各个功能模块的实现原理，包括 InnoDB 存储引擎的体系结构、内存中的数据结构、基于 InnoDB 存储引擎的表和页的物理存储、索引与算法、文件、锁、事务、备份与恢复，以及 InnoDB 的性能调优等重要的知识。 |
 | 5   | [Redis 深度历险：核心原理和应用实践[2018]](https://item.jd.com/12464009.html) | 钱文品                                                  | 从 Redis 的基础使用出发，结合实际项目中遇到的诸多应用场景，最后详细讲解集群环境，图文并茂地对 Redis 的特性做了全面解析。                                                                                                       |
 | 6   | [Redis 实战](https://item.jd.com/11791607.html)                               | [美] 约西亚 L.卡尔森(Josiah)，L.，Carlson 著，黄健宏 译 | 本书深入浅出地介绍了 Redis 的 5 种数据类型，并通过多个实用示例展示了 Redis 的用法。这本书侧重 Redis 应用，每个情景都配备完整的 Python 代码示例及逐行注释详解，非常适合初学者学习并上手 Redis。                                 |
+| 7   | [SQL 进阶教程 第二版](https://item.jd.com/13854960.html)                      | [日] MICK 著，吴炎昌，侯振龙 译                         | 本书是作者志在向中级进阶的数据库工程师编写的一本 SQL 技能提升指南。                                                                                                                                                            |
 
 ## Frontend
 
-| #   | Title                                                                         | Author(s)                                      | Abstract                                                                                                                                         |
-| --- | ----------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | [你不知道的 JavaScript（上卷）](https://item.jd.com/11676671.html)            | [美] Kyle Simpson 著<br />赵望野，梁杰 译      | JavaScript 开发经典入门图书，打通 JavaScript 的任督二脉，领略语言内部的绝美风光。                                                                |
-| 2   | [你不知道的 JavaScript（中卷）](https://item.jd.com/12030814.html)            | [美] Kyle Simpson 著<br />单业，姜南 译        | 深入挖掘 JavaScript 语言本质，简练形象地解释抽象概念，打通 JavaScript 的任督二脉。                                                               |
-| 3   | [你不知道的 JavaScript（下卷）](https://item.jd.com/12291874.html#crumb-wrap) | [美] Kyle Simpson 著<br />单业 译              | 探索 JavaScript 语言核心概念 深入了解 ES6，展望 JavaScript 发展方向。                                                                            |
-| 4   | [Three.js 开发指南](https://item.jd.com/12113317.html)                        | [美] Jos Dirksen 著<br />杨芬 译               | 全面讲解 Three.js 开发的实用指南，涵盖 Three.js 的各种功能；通过大量交互式示例，深入探索使用开源的 Three.js 库创建绚丽三维图形的实用方法和技巧。 |
-| 5   | [JavaScript 忍者秘籍（第 2 版）](https://item.jd.com/12306772.html)           | [美] John Resig, Bear Bibeault, Josip Maras 著 | 从界面构建、事件循环、函数、闭包、正则表达式等都有探索，唯一的不足就是翻译不够完美，有能力可以看原版。                                           |
-| 6   | [JavaScript 设计模式与开发实践](https://item.jd.com/11686375.html)            | 曾探 著                                        | 介绍了 JavaScript 中常用的一些设计模式，并结合了具体的例子，对如何优化和改进自己的代码有很好的启发。                                             |
+| #   | Title                                                                         | Author(s)                                        | Abstract                                                                                                                                         |
+| --- | ----------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | [你不知道的 JavaScript（上卷）](https://item.jd.com/11676671.html)            | [美] Kyle Simpson 著<br />赵望野，梁杰 译        | JavaScript 开发经典入门图书，打通 JavaScript 的任督二脉，领略语言内部的绝美风光。                                                                |
+| 2   | [你不知道的 JavaScript（中卷）](https://item.jd.com/12030814.html)            | [美] Kyle Simpson 著<br />单业，姜南 译          | 深入挖掘 JavaScript 语言本质，简练形象地解释抽象概念，打通 JavaScript 的任督二脉。                                                               |
+| 3   | [你不知道的 JavaScript（下卷）](https://item.jd.com/12291874.html#crumb-wrap) | [美] Kyle Simpson 著<br />单业 译                | 探索 JavaScript 语言核心概念 深入了解 ES6，展望 JavaScript 发展方向。                                                                            |
+| 4   | [Three.js 开发指南](https://item.jd.com/12113317.html)                        | [美] Jos Dirksen 著<br />杨芬 译                 | 全面讲解 Three.js 开发的实用指南，涵盖 Three.js 的各种功能；通过大量交互式示例，深入探索使用开源的 Three.js 库创建绚丽三维图形的实用方法和技巧。 |
+| 5   | [JavaScript 忍者秘籍（第 2 版）](https://item.jd.com/12306772.html)           | [美] John Resig, Bear Bibeault, Josip Maras 著   | 从界面构建、事件循环、函数、闭包、正则表达式等都有探索，唯一的不足就是翻译不够完美，有能力可以看原版。                                           |
+| 6   | [JavaScript 设计模式与开发实践](https://item.jd.com/11686375.html)            | 曾探 著                                          | 介绍了 JavaScript 中常用的一些设计模式，并结合了具体的例子，对如何优化和改进自己的代码有很好的启发。                                             |
+| 7   | [JavaScript 高级程序设计（第 4 版）](https://item.jd.com/12958580.html)       | [美] 马特·弗里斯比（Matt Frisbie） 著，李松峰 译 | 红宝书第四版，全面、深入地介绍了 JavaScript 开发者必须掌握的前端开发技术，涉及 JavaScript 的基础特性和高级特性。                                 |
 
 ## Architecture
 
