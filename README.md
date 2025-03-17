@@ -11,7 +11,7 @@
 
 ## 站点
 
-https://doocs.github.io/technical-books
+https://book.doocs.org
 
 ## 计算机系统与算法
 
