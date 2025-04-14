@@ -27,7 +27,7 @@ export default defineConfig({
     ]
   },
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon-32x32.png' }],
     [
       'script',
       { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-FXKXWXY4HF' }
