@@ -107,6 +107,8 @@ https://book.doocs.org
 | 4   | [Spark 快速大数据分析[2015]](https://item.jd.com/11782888.html)                                               | [美] Holden Karau, [美] Andy Konwinski, [美] Patrick Wendell, [加] Matei Zaharia 著<br />王道远 译 | Spark 入门书籍, 让初学者对 Spark 有一个基本全面的了解。                                                                      |
 | 5   | [Elasticsearch 权威指南](https://github.com/GavinFoo/elasticsearch-definitive-guide/)                         | clinton gormley，zachary tong 著，Gavin Foo 译                                                     | 讲解结构化搜索、统计、查询过滤、地理定位、提升 Elasticsearch 的性能。                                                        |
 | 6   | [Spark SQL 内核解剖](https://item.jd.com/12415659.html)                                                       | 朱锋 张韶全 黄明 著                                                                                | Spark 高阶玩家晋级宝典 腾讯 T4 亲传大规模分布式系统实践。                                                                    |
+| 7   | [大数据之路](https://item.jd.com/10137132716209.html)                                                       | 阿里巴巴数据技术及产品部                                                     | 分享阿里巴巴在大数据技术、模型和管理方面的实践经验，提供行业洞见和启发。                                                                    |
+| 8   | [数据仓库工具箱第3版：维度建模权威指南](https://item.jd.com/10075792639720.html)                                                       | [美] Ralph Kimball, [美] Margy Ross 著<br />王念滨, 周连科, 韦正现 译 | 权威指南，聚焦维度建模在数据仓库中的最佳实践，包含实际案例和设计技巧。                                                        |
 
 ## 工具
 
