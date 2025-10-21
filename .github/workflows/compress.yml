@@ -16,7 +16,7 @@ jobs:
     if: github.repository == 'doocs/technical-books'
     steps:
       - name: Checkout Branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Compress Images
         id: calibre
