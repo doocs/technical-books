@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "vitepress": "^2.0.0-alpha.12",
-    "wrangler": "^4.44.0"
+    "wrangler": "^4.59.1"
   },
   "dependencies": {
     "vitepress-plugin-comment-with-giscus": "^1.1.15"
