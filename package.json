@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "vitepress": "2.0.0-alpha.17",
-    "wrangler": "^4.83.0"
+    "wrangler": "^4.97.0"
   },
   "dependencies": {
     "typescript": "^6.0.3",
