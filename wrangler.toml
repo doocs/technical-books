@@ -1,5 +1,5 @@
 name = "book"
-main = "worker.js"
+main = "worker.ts"
 compatibility_date = "2024-10-22"
 workers_dev = true
 

@@ -16,13 +16,13 @@ jobs:
     if: github.repository == 'doocs/technical-books'
     steps:
       - name: Checkout Branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Compress Images
         id: calibre
-        uses: calibreapp/image-actions@main
+        uses: calibreapp/image-actions@1.4.1
         with:
-          githubToken: ${{ secrets.ACTION_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
           compressOnly: true
 
       - name: Commit Files
@@ -36,6 +36,6 @@ jobs:
       - name: Push Changes
         if: |
           steps.calibre.outputs.markdown != ''
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v1.1.0
         with:
           github_token: ${{ secrets.ACTION_TOKEN }}

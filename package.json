@@ -4,14 +4,30 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "deploy:cf": "pnpm run docs:build && wrangler deploy"
+    "deploy:cf": "pnpm run docs:build && wrangler deploy",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260624.1",
+    "typescript": "^6.0.3",
+    "vite": "^7.3.5",
     "vitepress": "2.0.0-alpha.17",
-    "wrangler": "^4.97.0"
+    "vue": "^3.5.17",
+    "wrangler": "^4.104.0"
   },
   "dependencies": {
-    "typescript": "^6.0.3",
     "vitepress-plugin-comment-with-giscus": "^1.1.15"
+  },
+  "pnpm": {
+    "overrides": {
+      "esbuild": ">=0.28.1",
+      "mdast-util-to-hast": ">=13.2.1",
+      "picomatch": ">=4.0.4",
+      "postcss": ">=8.5.10",
+      "rollup": ">=4.59.0",
+      "undici": ">=7.28.0",
+      "vite": ">=7.3.5 <8.0.0",
+      "ws": ">=8.21.0"
+    }
   }
 }
