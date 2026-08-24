@@ -20,7 +20,7 @@ jobs:
 
       - name: Compress Images
         id: calibre
-        uses: calibreapp/image-actions@1.4.1
+        uses: calibreapp/image-actions@1.5.0
         with:
           GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
           compressOnly: true
@@ -36,6 +36,6 @@ jobs:
       - name: Push Changes
         if: |
           steps.calibre.outputs.markdown != ''
-        uses: ad-m/github-push-action@v1.1.0
+        uses: ad-m/github-push-action@v1.3.0
         with:
           github_token: ${{ secrets.ACTION_TOKEN }}
