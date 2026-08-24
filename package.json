@@ -1,5 +1,8 @@
 {
-  "packageManager": "pnpm@9.15.0",
+  "packageManager": "pnpm@10.33.0",
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  },
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
@@ -8,26 +11,31 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20260624.1",
-    "typescript": "^6.0.3",
-    "vite": "^7.3.5",
-    "vitepress": "2.0.0-alpha.17",
-    "vue": "^3.5.17",
-    "wrangler": "^4.104.0"
+    "@cloudflare/workers-types": "^5.20260823.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.2.2",
+    "vitepress": "2.0.0-alpha.19",
+    "vue": "^3.5.41",
+    "wrangler": "^4.125.0"
   },
   "dependencies": {
     "vitepress-plugin-comment-with-giscus": "^1.1.15"
   },
   "pnpm": {
     "overrides": {
-      "esbuild": ">=0.28.1",
+      "esbuild": "0.28.2",
       "mdast-util-to-hast": ">=13.2.1",
+      "nanoid": "3.3.18",
       "picomatch": ">=4.0.4",
-      "postcss": ">=8.5.10",
+      "postcss": "8.5.26",
       "rollup": ">=4.59.0",
-      "undici": ">=7.28.0",
-      "vite": ">=7.3.5 <8.0.0",
+      "undici": ">=8.9.0",
+      "vite": "8.2.2",
       "ws": ">=8.21.0"
-    }
+    },
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "workerd"
+    ]
   }
 }
